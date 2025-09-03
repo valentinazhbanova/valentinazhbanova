@@ -1,7 +1,6 @@
 # Hi, I'm Valentina 👋  
 
-I’m a **beginner Frontend Developer** passionate about building responsive and user-friendly web interfaces.  
-Currently learning modern web technologies and growing my skills in frontend development.  
+Motivated and detail-oriented Front-End Developer with a solid foundation in JavaScript and web development. I have hands-on experience building educational web applications using modern technologies such as HTML, CSS, and JavaScript libraries. Passionate about writing clean, accessible, and user-friendly code, and eager to grow in a collaborative team environment.  
 
 ---
 
@@ -14,14 +13,9 @@ Currently learning modern web technologies and growing my skills in frontend dev
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+  
 
-## 🎯 Currently Learning
-- React and component-based architecture   
-
----
-
-## 📌 About Me
-- I love writing clean and readable code  
-- I value neat design and attention to detail  
-- Gradually building my portfolio of projects  
+## 📌 
+ 
+During the program, I built and maintained multiple educational projects that demonstrated my ability to create interactive, responsive, and functional web applications. My projects focused on usability, clarity, and modern UI design.  
 
